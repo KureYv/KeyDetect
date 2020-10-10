@@ -1,1 +1,1 @@
-# RelevantSearching
+# Hackathon project
